@@ -13,7 +13,7 @@ Features:
 
 ## Difference of this fork
 
-The `master` branch of this fork is up to date with Angular 5, TypeScript 2.4 and RxJS 5.5.
+**The `master` branch of this fork is up to date with Angular 5, TypeScript 2.4 and RxJS 5.5.**
 
 Be aware that a library compiled with Angular 5 won't be compatible with Angular 4.
 So if you need to support Angular 4 (and you should, as it's in Long Term Support),
