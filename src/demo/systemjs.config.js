@@ -39,6 +39,10 @@
       rxjs: {
         defaultExtension: 'js'
       },
+      'rxjs/operators': {
+        defaultExtension: 'js',
+        main: 'index'
+      },
       'quickstart-lib': {
         main: 'index.js',
         defaultExtension: 'js',
