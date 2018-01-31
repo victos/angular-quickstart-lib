@@ -15,6 +15,7 @@
   },
   "scripts": {
     "clean": "rimraf out-tsc dist/*",
+    "clean:compile": "node clear.js",
     "prebuild": "npm run clean",
     "build": "node build.js",
     "build-demo": "tsc -p src/demo/",
